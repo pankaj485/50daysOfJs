@@ -1,1 +1,1 @@
-strter files directory contains initial boilerplate for each of the projects
+# NOTHING IS WRONG WITH GETTING BACK TO BASICS
